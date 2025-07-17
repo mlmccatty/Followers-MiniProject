@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+*.xml
+*.iml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Other
+Project-Files/
+images/
+inspectionProfiles/

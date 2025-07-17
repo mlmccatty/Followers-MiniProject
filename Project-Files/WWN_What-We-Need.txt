@@ -1,0 +1,20 @@
+HTML
+Surrounding div; div over: 'Posts', 'Followers', 'Username', and 'PFP'; 'Name' and 'Description'.
+'Follow' button.
+Use span for 'posts', 'followers', 'username', 'name', and 'description. Span is an inline version of div, intended for smaller elements.
+
+CSS
+Use Flexbox.
+Color Palette: #181C14, #3C3D37, #697565, #ECDFCC
+Add border-radius 50% to img tag to create PFP.
+
+JS
+addeventListener() method with onclick type on 'Follow' button:
+-updates the follower count with count++ 
+-changes the name of label of the follow button to 'Followed' and back
+-Changes the background-color of the button from Color1 to Color2 and back 
+ 
+
+
+
+
