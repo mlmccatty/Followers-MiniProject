@@ -1,0 +1,86 @@
+  main {
+    background-color: gainsboro;
+    position: absolute;
+    top: 23vh;
+    left: 30vw;
+    height: 50vh;
+    width: 600px;
+    border-radius: 30px;
+    font-family: "Tiktok Sans", sans-serif;
+  }
+  #username_div {
+    background-color: gainsboro;
+    height: 12%;
+    width: 45%;
+    position: absolute;
+    top: -10%;
+    left: 27.5%;
+    font-size: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  #main_idea {
+    height: 385px;
+    width: 499px;
+    position: absolute;
+    top: 43px;
+    left: 8%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+  /* Below the username from left to right. */
+  #pfp {
+    height: 30%;
+    border-radius: 50%;
+  }
+  #post_div, #follow_div {
+    height: 25%;
+    line-height: 100%;
+  }
+  .beside_pfp {
+    position: relative;
+    top: 30px;
+  }
+  .post_follow_text {
+    font-size: 18px;
+  }
+  .values {
+    font-size: 30px;
+  }
+
+/* Below the pfp. */
+  #name {
+    font-weight: bold;
+  }
+  #profile_info {
+    position: absolute;
+    line-height: 10px;
+    top: 44%;
+    left: 7%;
+  }
+/* The follow button */
+  #follow_button {
+    border: solid black 1px;
+    border-radius: 10px;
+    background-color: lightgray;
+    position: absolute;
+    top: 319px;
+    left: 3%;
+    width: 240px;
+    height: 40px;
+    font-size: 15px;
+    font-family: "Tiktok Sans", sans-serif;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+  }
+  #follow_button:hover {
+  background-color: gray;
+  }
