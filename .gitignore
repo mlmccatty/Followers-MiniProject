@@ -1,11 +1,13 @@
 # Default ignored files
 /shelf/
-*.xml
-*.iml
+.idea/
 # Editor-based HTTP Client requests
 /httpRequests/
 
 # Other
 Project-Files/
 images/
+<<<<<<< Updated upstream
 inspectionProfiles/
+=======
+>>>>>>> Stashed changes
